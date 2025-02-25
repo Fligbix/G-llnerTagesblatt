@@ -1,2 +1,2 @@
-# G-llnerTagesblatt
+# GuellnerTagesblatt
 Deutsch Projekt
